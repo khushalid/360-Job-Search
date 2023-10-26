@@ -27,6 +27,7 @@ Dataset formed by scraping Coursera
 Coursera_Courses_test.csv
 
 Housing dataset collected from Kaggle
+unzip the airbnb_data_final.csv.zip before running the project
 Airbnb_data_final.csv
 
 Dataset formed by scraping Glassdoor
